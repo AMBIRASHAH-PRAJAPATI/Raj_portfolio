@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Raj_portfolio/static/css/main.b3843912.css",
+    "main.js": "/Raj_portfolio/static/js/main.25a7cecb.js",
+    "static/js/787.e3bc6b54.chunk.js": "/Raj_portfolio/static/js/787.e3bc6b54.chunk.js",
+    "static/media/Gamming_Mania.png": "/Raj_portfolio/static/media/Gamming_Mania.c075b354f42735c1f472.png",
+    "static/media/Foodie.png": "/Raj_portfolio/static/media/Foodie.4a89ea7349fa4dee7638.png",
+    "static/media/Airline.png": "/Raj_portfolio/static/media/Airline.9d92002e16ec25a51023.png",
+    "static/media/AboutImg.jpg": "/Raj_portfolio/static/media/AboutImg.9e7d5176c023f451f696.jpg",
+    "static/media/task manager.png": "/Raj_portfolio/static/media/task manager.8373deee4460fad5bf23.png",
+    "static/media/mycontactimg.jpg": "/Raj_portfolio/static/media/mycontactimg.d69a4330e2a17608529c.jpg",
+    "static/media/Ambirashah_resume.pdf": "/Raj_portfolio/static/media/Ambirashah_resume.066df8459a9281dd7114.pdf",
+    "static/media/Elite.png": "/Raj_portfolio/static/media/Elite.bf07ec5d21c535b7f24c.png",
+    "static/media/background9.webp": "/Raj_portfolio/static/media/background9.5a2f7d0392e487ae9df1.webp",
+    "static/media/tictactoe game.png": "/Raj_portfolio/static/media/tictactoe game.7c8e640b6a39bbadbdc7.png",
+    "static/media/insta.svg": "/Raj_portfolio/static/media/insta.339b7f0f40441b0acb12aa6451229419.svg",
+    "static/media/phoneicon.svg": "/Raj_portfolio/static/media/phoneicon.9bee5a857d114ee0453ec69a2c0285f0.svg",
+    "static/media/github2.svg": "/Raj_portfolio/static/media/github2.a841c966bb3a56b3d8b2d5859167f317.svg",
+    "static/media/linkedin.svg": "/Raj_portfolio/static/media/linkedin.aecfa55783131bef03343f277c9b1f0e.svg",
+    "static/media/icons8-c++.svg": "/Raj_portfolio/static/media/icons8-c++.dd3d8671c481a064340e15f9623053b4.svg",
+    "index.html": "/Raj_portfolio/index.html",
+    "static/media/icons8-c-programming.svg": "/Raj_portfolio/static/media/icons8-c-programming.f9ad9fe992ae3589b37dc2f417f4f600.svg",
+    "static/media/icons8-react-native.svg": "/Raj_portfolio/static/media/icons8-react-native.9235e8f8e2b73d394801330aba87511f.svg",
+    "static/media/icons8-python.svg": "/Raj_portfolio/static/media/icons8-python.cb17f7a4f3cefedcc53fd0d5db3114de.svg",
+    "static/media/icons8-js.svg": "/Raj_portfolio/static/media/icons8-js.fabe1e9b193a5b86c7467a70ba5d736a.svg",
+    "static/media/icons8-bootstrap.svg": "/Raj_portfolio/static/media/icons8-bootstrap.c64ac3eacd09b9b41a258538de7513d4.svg",
+    "static/media/icons8-css.svg": "/Raj_portfolio/static/media/icons8-css.db7dfd1247623e1e9223d8ef28a37432.svg",
+    "static/media/icons8-html5.svg": "/Raj_portfolio/static/media/icons8-html5.a026abbb678246d70ee9b70e4aee972c.svg",
+    "main.b3843912.css.map": "/Raj_portfolio/static/css/main.b3843912.css.map",
+    "main.25a7cecb.js.map": "/Raj_portfolio/static/js/main.25a7cecb.js.map",
+    "787.e3bc6b54.chunk.js.map": "/Raj_portfolio/static/js/787.e3bc6b54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3843912.css",
+    "static/js/main.25a7cecb.js"
+  ]
+}
