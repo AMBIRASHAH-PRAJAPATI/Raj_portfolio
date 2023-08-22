@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Raj_portfolio/static/css/main.b3843912.css",
-    "main.js": "/Raj_portfolio/static/js/main.25a7cecb.js",
+    "main.js": "/Raj_portfolio/static/js/main.941f3a01.js",
     "static/js/787.e3bc6b54.chunk.js": "/Raj_portfolio/static/js/787.e3bc6b54.chunk.js",
     "static/media/Gamming_Mania.png": "/Raj_portfolio/static/media/Gamming_Mania.c075b354f42735c1f472.png",
     "static/media/Foodie.png": "/Raj_portfolio/static/media/Foodie.4a89ea7349fa4dee7638.png",
@@ -27,11 +27,11 @@
     "static/media/icons8-css.svg": "/Raj_portfolio/static/media/icons8-css.db7dfd1247623e1e9223d8ef28a37432.svg",
     "static/media/icons8-html5.svg": "/Raj_portfolio/static/media/icons8-html5.a026abbb678246d70ee9b70e4aee972c.svg",
     "main.b3843912.css.map": "/Raj_portfolio/static/css/main.b3843912.css.map",
-    "main.25a7cecb.js.map": "/Raj_portfolio/static/js/main.25a7cecb.js.map",
+    "main.941f3a01.js.map": "/Raj_portfolio/static/js/main.941f3a01.js.map",
     "787.e3bc6b54.chunk.js.map": "/Raj_portfolio/static/js/787.e3bc6b54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b3843912.css",
-    "static/js/main.25a7cecb.js"
+    "static/js/main.941f3a01.js"
   ]
 }
